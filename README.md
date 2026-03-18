@@ -58,7 +58,3 @@ A continuación se muestran algunas vistas principales de la aplicación:
 
 ### 📢 Gestión de campañas
 <img width="1600" height="857" alt="image" src="https://github.com/user-attachments/assets/2db6681f-53ad-4744-821d-c9546f2ee30f" />
-
-
----
-## 📁 Estructura del proyecto
